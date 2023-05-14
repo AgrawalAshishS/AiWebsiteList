@@ -11,7 +11,7 @@
     "name":"DALL E",
     "websites":["https://labs.openai.com/"],
     "description":"Image generator by OpenAI. Generate images from your own text or images.",
-    "tags":["Image Generator"],
+    "tags":["Image"],
     "logo":"https://freelogopng.com/images/all_img/1683823510dall-e-logo-png.png",
     "header_image":""
   },
@@ -25,7 +25,7 @@
     "name": "Microsoft Designer",
     "websites":["https://designer.microsoft.com/"],
     "description":"Initially an alternative to Canva. This tool generate images from your text or images. With editable layouts.",
-    "tags":["Image Generator", "Canva"],
+    "tags":["Image", "Canva"],
     "logo":"https://logowik.com/content/uploads/images/microsoft-designer7529.logowik.com.webp"
   },
   {
@@ -34,5 +34,23 @@
     "websites":["https://www.copy.ai/"],
     "tags":["Chat", "Copywriting", "Blogging", "Marketing"],
     "logo": "https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/62828ef38380777cb33cdf29_5f579853dab605076f3cbf3f_logo.svg"
+  },
+  {
+    "name":"Airtable AI",
+    "description":"Transform your workflows with generative AI",
+    "websites": ["https://www.airtable.com/product/ai"],
+    "tags":[]
+  },
+  {
+    "name":"Google Bard",
+    "description":"A text generation tool by Google.",
+    "websites":["https://bard.google.com/"],
+    "tags":["Chat", "Blogging", "Marketing"]
+  },
+  {
+    "name":"Stability AI",
+    "description":"AI by the people for the people. Includes text-to-animation SDK.",
+    "websites":["https://stability.ai/"],
+    "tags":["Image", "Animation"]
   }
 ]
