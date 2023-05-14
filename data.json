@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ChatGpt",
+    "websites": ["https://chat.openai.com"],
+    "description": "ChatGPT is trained AI model, which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer follow-up questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.",
+    "tags": ["Chat", "Blogging", "Text", "Code"],
+    "logo": "https://cdn.cdnlogo.com/logos/c/18/ChatGPT_800x800.png",
+    "header_image": ""
+  },
+  {
+    "name":"DALL E",
+    "websites":["https://labs.openai.com/"],
+    "description":"Image generator by OpenAI. Generate images from your own text or images.",
+    "tags":["Image Generator"],
+    "logo":"https://freelogopng.com/images/all_img/1683823510dall-e-logo-png.png",
+    "header_image":""
+  },
+  {
+    "name":"Get Super Team",
+    "websites":["https://getsuperteam.com/"],
+    "description":"Superteam makes great action-based AI chat technology. Not the usual, get-me-a-real-person chatbot. Think of it as ChatGPT trained explicitly with all the information about your business. Superteam works for any business that wants scalable 24/7 instant customer communication at a fraction of the cost.",
+    "tags":["Chat"]
+  },
+  {
+    "name": "Microsoft Designer",
+    "websites":["https://designer.microsoft.com/"],
+    "description":"Initially an alternative to Canva. This tool generate images from your text or images. With editable layouts.",
+    "tags":["Image Generator", "Canva"],
+    "logo":"https://logowik.com/content/uploads/images/microsoft-designer7529.logowik.com.webp"
+  },
+  {
+    "name":"Copy.ai",
+    "description":"Whatever you want to ask, our chat has the answers",
+    "websites":["https://www.copy.ai/"],
+    "tags":["Chat", "Copywriting", "Blogging", "Marketing"],
+    "logo": "https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/62828ef38380777cb33cdf29_5f579853dab605076f3cbf3f_logo.svg"
+  }
+]

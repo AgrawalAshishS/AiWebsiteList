@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Code generated with GPT 4-->
+        <meta charset="utf-8">
+        <title>AI Websites</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="container">
+            <input id="search-input" type="text" placeholder="Search..." class="form-control mb-3">
+            <div id="tags-cloud" class="mb-3"></div>
+            <div id="cards-container" class="row"></div>
+            <nav aria-label="Page navigation" class="mt-3">
+                <ul id="pagination" class="pagination justify-content-center"></ul>
+            </nav>
+        </div>
+
+        <script id="card-template" type="text/x-handlebars-template">
+            {{#each this}}
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <!-- <img src="{{header_image}}" class="card-img-top" alt="{{name}}" -->
+                    <div class="card-body">
+                        <h5 class="card-title">{{name}}</h5>
+                        <p class="card-text">{{description}}</p>
+                        <div class="tags">
+                            {{#each tags}}
+                            <span class="badge badge-primary tag-badge">{{this}}</span>
+                            {{/each}}
+                        </div>
+                        <div class="websites mt-2">
+                            {{#each websites}}
+                            <a href="{{this}}" target="_blank" class="btn btn-info mt-2">{{this}}</a>
+                            {{/each}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{/each}}
+        </script>
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.6/handlebars.min.js"></script>
+        <script src="app.js"></script>
+    </body>
+</html>
