@@ -49,8 +49,14 @@
   },
   {
     "name":"Stability AI",
-    "description":"AI by the people for the people. Includes text-to-animation SDK.",
+    "description":"AI by the people for the people. We are building the foundation to activate humanity's potential. They have just released new SDK for text-to-animation.",
     "websites":["https://stability.ai/"],
     "tags":["Image", "Animation"]
+  },
+  {
+    "name":"Cohesive AI",
+    "description":"Experience productivity boost with Cohesive, where the power of human creativity meets the brilliance of AI. Seamlessly create, refine, edit, and publish your work with ease.",
+    "websites":["https://cohesive.so/"],
+    "tags":["Prompt Helper", "Social Media", "Sales", "Support", "Copywriting","Education", "Legal"]
   }
 ]
