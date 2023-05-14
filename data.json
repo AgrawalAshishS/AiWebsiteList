@@ -8,18 +8,18 @@
     "header_image": ""
   },
   {
+    "name":"Midjourney",
+    "description":"Some would say this is most powerful image generation AI out there.",
+    "websites":["https://www.midjourney.com/home/", "https://www.midjourney.com/showcase/recent/", "https://docs.midjourney.com/"],
+    "tag":["Image"]
+  },
+  {
     "name":"DALL E",
     "websites":["https://labs.openai.com/"],
     "description":"Image generator by OpenAI. Generate images from your own text or images.",
     "tags":["Image"],
     "logo":"https://freelogopng.com/images/all_img/1683823510dall-e-logo-png.png",
     "header_image":""
-  },
-  {
-    "name":"Get Super Team",
-    "websites":["https://getsuperteam.com/"],
-    "description":"Superteam makes great action-based AI chat technology. Not the usual, get-me-a-real-person chatbot. Think of it as ChatGPT trained explicitly with all the information about your business. Superteam works for any business that wants scalable 24/7 instant customer communication at a fraction of the cost.",
-    "tags":["Chat"]
   },
   {
     "name": "Microsoft Designer",
@@ -36,17 +36,18 @@
     "logo": "https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/62828ef38380777cb33cdf29_5f579853dab605076f3cbf3f_logo.svg"
   },
   {
-    "name":"Airtable AI",
-    "description":"Transform your workflows with generative AI",
-    "websites": ["https://www.airtable.com/product/ai"],
-    "tags":[]
-  },
-  {
     "name":"Google Bard",
     "description":"A text generation tool by Google.",
     "websites":["https://bard.google.com/"],
     "tags":["Chat", "Blogging", "Marketing"]
   },
+  {
+    "name":"Airtable AI",
+    "description":"Transform your workflows with generative AI",
+    "websites": ["https://www.airtable.com/product/ai"],
+    "tags":[]
+  },
+  
   {
     "name":"Stability AI",
     "description":"AI by the people for the people. We are building the foundation to activate humanity's potential. They have just released new SDK for text-to-animation.",
@@ -58,5 +59,11 @@
     "description":"Experience productivity boost with Cohesive, where the power of human creativity meets the brilliance of AI. Seamlessly create, refine, edit, and publish your work with ease.",
     "websites":["https://cohesive.so/"],
     "tags":["Prompt Helper", "Social Media", "Sales", "Support", "Copywriting","Education", "Legal"]
+  },
+  {
+    "name":"Get Super Team",
+    "websites":["https://getsuperteam.com/"],
+    "description":"Superteam makes great action-based AI chat technology. Not the usual, get-me-a-real-person chatbot. Think of it as ChatGPT trained explicitly with all the information about your business. Superteam works for any business that wants scalable 24/7 instant customer communication at a fraction of the cost.",
+    "tags":["Chat"]
   }
 ]
