@@ -21,3 +21,6 @@ body {
 .btn small{
     font-size: 60%;
 }
+#search-input{
+    margin-right: 10px;
+}
