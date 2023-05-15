@@ -149,5 +149,17 @@
     "websites":["https://getsuperteam.com/"],
     "description":"Superteam makes great action-based AI chat technology. Not the usual, get-me-a-real-person chatbot. Think of it as ChatGPT trained explicitly with all the information about your business. Superteam works for any business that wants scalable 24/7 instant customer communication at a fraction of the cost.",
     "tags":["Chat"]
+  },
+  {
+    "name": "Daib AI",
+    "description": "Prompt-based code development tool. AI developer bot for your source code. Daib AI is an advanced AI-based LLM programmer that integrates with your workflow and automates your development",
+    "websites":["https://daib.ai"],
+    "tags":["Code"]
+  },
+  {
+    "name": "Eluna AI",
+    "description": "Text-to-image conversion. With this AI Tool you can get: 1. Eluna AI -> artistic and stylish 2. pixel -> retro, 16-bit joy 3. Realism → Ultra-realistic images",
+    "websites": ["https://eluna.ai"],
+    "tags":["Image"]
   }
 ]
