@@ -34,28 +34,30 @@
             </nav>
         </div>
         <script id="card-template" type="text/x-handlebars-template">
-            {{#each this}}
-            <div class="col-md-4 mb-3">
-                <div class="card">
-                    <!-- <img src="{{header_image}}" class="card-img-top" alt="{{name}}" -->
-                    <div class="card-body">
-                        <h5 class="card-title">{{name}}</h5>
-                        <p class="card-text">{{description}}</p>
-                        <div class="tags">
-                            {{#each tags}}
-                            <span class="badge badge-primary tag-badge">{{this}}</span>
-                            {{/each}}
-                        </div>
-                        <div class="websites mt-2">
-                            {{#each websites}}
-                            <a href="{{this}}" target="_blank" class="btn btn-info mt-2">{{this}}</a>
-                            {{/each}}
-                        </div>
-                    </div>
+    {{#each this}}
+    <div class="col-md-4 mb-3">
+        <div class="card border-rounded">
+            <img src="{{background_image}}" class="card-img-top border-rounded-top" alt="{{name}}">
+            <div class="card-header">
+                {{name}}
+            </div>
+            <div class="card-body">
+                <p class="card-text">{{description}}</p>
+                <div class="tags">
+                    {{#each tags}}
+                    <span class="badge badge-primary tag-badge">{{this}}</span>
+                    {{/each}}
+                </div>
+                <div class="websites mt-2">
+                    {{#each websites}}
+                    <a href="{{this}}" target="_blank" class="btn btn-info mt-2">{{this}}</a>
+                    {{/each}}
                 </div>
             </div>
-            {{/each}}
-        </script>
+        </div>
+    </div>
+    {{/each}}
+</script>
         <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.6/handlebars.min.js"></script>
         <script src="app.js"></script>
