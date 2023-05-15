@@ -11,7 +11,7 @@
     "name":"Midjourney",
     "description":"Some would say this is most powerful image generation AI out there.",
     "websites":["https://www.midjourney.com/home/", "https://www.midjourney.com/showcase/recent/", "https://docs.midjourney.com/"],
-    "tag":["Image"]
+    "tags":["Image"]
   },
   {
     "name":"DALL E",
@@ -45,7 +45,7 @@
     "name":"Airtable AI",
     "description":"Transform your workflows with generative AI",
     "websites": ["https://www.airtable.com/product/ai"],
-    "tags":[]
+    "tags":["Tools"]
   },
   
   {
@@ -59,6 +59,90 @@
     "description":"Experience productivity boost with Cohesive, where the power of human creativity meets the brilliance of AI. Seamlessly create, refine, edit, and publish your work with ease.",
     "websites":["https://cohesive.so/"],
     "tags":["Prompt Helper", "Social Media", "Sales", "Support", "Copywriting","Education", "Legal"]
+  },
+  {
+    "name":"Beatoven AI",
+    "websites":["https://beatoven.ai/"],
+    "description":"This tool will use AI to create the perfect music for your video.",
+    "tags":["Audio", "Video"]
+  },
+  {
+    "name":"Cleanup.pictures",
+    "websites":["https://Cleanup.pictures/"],
+    "description":"Have you evver taken a photo, but something in it annoys you? Well this website will remove anything on your image user AI.",
+    "tags":["Image", "Remove", "Clean up", "Tools"]
+  },
+  {
+    "name":"Lets Enhance",
+    "websites":["https://letsenhance.io/"],
+    "description":"If you have a blurry pictures that you wish weren't blurry, this website is for you. It will enhance them and upscale them using AI.",
+    "tags":["Image", "Clean up", "Tools"]
+  },
+  {
+    "name":"Excel Formula Bot",
+    "websites":["https://excelformulabot.com/"],
+    "description":"Forgot an excel formula? Well this tool will use AI to give you the right formula. You just tell it what you want to do, and it gives you the right excel formula.",
+    "tags":["Chat", "Excel", "Tools"]
+  },
+  {
+    "name":"PDF AI",
+    "websites":["https://pdf.ai/"],
+    "description":"Chat with any document. From legal agreements to financial reports, PDF.ai brings your documents to life. You can ask questions, get summaries, find information and more.",
+    "tags":["PDF", "Import", "Tools"]
+  },
+  {
+    "name":"Designer IO",
+    "websites":["https://designrr.io/"],
+    "description":"Create and publish Ebooks using ChatGpt.",
+    "tags":["Ebook", "Tools"]
+  },
+  {
+    "name":"AD Copy AI",
+    "websites":["https://adcopy.ai/"],
+    "description":"AI copy tool build to drive more clicks and conversions for digital advertisers. Copy and paste any ad for a new variation.",
+    "tags":["AD", "Tools"]
+  },
+  {
+    "name":"Doc Lime",
+    "websites":["https://doclime.com/"],
+    "description":"Doclime is the best AI-powered PDF tool to ease your work. Import your PDF and get answers instantly from your documents.",
+    "tags":["PDF", "Import", "Tools"]
+  },
+  {
+    "name":"Babaselo",
+    "websites":["https://babaselo.com/"],
+    "description":"AI powered cooking companion.",
+    "tags":["Cooking", "Tools"]
+  },
+  {
+    "name":"Taskade.com",
+    "websites":["https://taskade.com/"],
+    "description":"Taskade AI lets your build a second brain for your teams and increase productivity.",
+    "tags":["Tools"]
+  },
+  {
+    "name":"Compose",
+    "websites":["https://compose.ai/"],
+    "description":"Use composeAI to generate any text using AI. It will help you write better content in seconds.",
+    "tags":["Text", "Tools"]
+  },
+  {
+    "name":"Durable.co",
+    "websites":["https://durable.co/"],
+    "description":"Build a website in 30 seconds with AI. It generates entire website with images and contents.",
+    "tags":["Website", "Tools"]
+  },
+  {
+    "name":"GoalAI",
+    "websites":["https://beta.nando.ai/goalai.php"],
+    "description":"GoalAI empowers you to design and launch self-governing AI GPT robots. Simply state your goal and let your Intelligent Alter Ego handle the rest! It will strive to achieve the goal by generating tasks, implementing them, and learning from the outcomes.",
+    "tags":["self-learning", "Tools"]
+  },
+  {
+    "name":"Rationale Jina",
+    "websites":["https://rationale.jina.ai/"],
+    "description":"Making good decisions is hard. This AI tool that helps you to make better decisions.",
+    "tags":["Decision Making", "Tools"]
   },
   {
     "name":"Get Super Team",

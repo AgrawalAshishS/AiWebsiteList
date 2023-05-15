@@ -1,7 +1,7 @@
 $(document).ready(function () {
     var originalData = []; // This will be your original data from JSON file
     var data = []; // This will be your filtered data
-    var itemsPerPage = 9;
+    var itemsPerPage = 54;
     var currentPage = 1;
 
     function renderCards() {
