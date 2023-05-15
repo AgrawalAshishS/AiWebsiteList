@@ -28,18 +28,27 @@ $(document).ready(function () {
             $("#pagination").append(li);
         }
     }
+
     function renderTagsCloud() {
-        var tags = [];
+        var tags = {};
+
         originalData.forEach(function (item) {
             item.tags.forEach(function (tag) {
-                if (!tags.includes(tag)) tags.push(tag);
+                if (!tags[tag]) {
+                    tags[tag] = 0;
+                }
+                tags[tag] += item.websites.length;
             });
         });
 
-        tags.forEach(function (tag) {
+        var sortedTags = Object.keys(tags).sort(function(a, b) {
+            return tags[b] - tags[a]; // Sort in descending order
+        });
+
+        sortedTags.forEach(function (tag) {
             var button = $('<button>')
                 .addClass('btn btn-outline-primary mr-2 mb-2')
-                .text(tag)
+                .html(tag + " <small>(" + tags[tag] + ")</small>") // Use HTML tag "small" for smaller font size
                 .click(function() {
                     filterByTag(tag);
                 });
@@ -47,6 +56,7 @@ $(document).ready(function () {
         });
     }
 
+    
     // Fetch data from JSON file
     $.getJSON("data.json", function(jsonData) {
         originalData = jsonData;
