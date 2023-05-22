@@ -47,7 +47,7 @@
     "websites": ["https://www.airtable.com/product/ai"],
     "tags":["Tools"]
   },
-  
+
   {
     "name":"Stability AI",
     "description":"AI by the people for the people. We are building the foundation to activate humanity's potential. They have just released new SDK for text-to-animation.",
@@ -160,6 +160,90 @@
     "name": "Eluna AI",
     "description": "Text-to-image conversion. With this AI Tool you can get: 1. Eluna AI -> artistic and stylish 2. pixel -> retro, 16-bit joy 3. Realism → Ultra-realistic images",
     "websites": ["https://eluna.ai"],
+    "tags":["Image"]
+  },
+  {
+    "name": "BlueWillow",
+    "description": "This is a powerful AI art generator that can create stunning images with just a few clicks",
+    "websites": ["https://www.bluewillow.ai/"],
+    "tags":["Image"]
+  },
+  {
+    "name": "Lexica",
+    "description": "Stable Diffusion image search engine",
+    "websites": ["https://lexica.art/"],
+    "tags":["Image"]
+  },
+  {
+    "name": "Adobe Firefly",
+    "description": "A new family of creative generative AI models",
+    "websites":["https://firefly.adobe.com/"],
+    "tags":["Image"]
+  },
+  {
+    "name": "Dreamlike.ART",
+    "description": "Create stunning AI Art in seconds",
+    "websites":["https://dreamlike.art/create"],
+    "tags":["Image"]
+  },
+  {
+    "name": "InstantART",
+    "description": " new platform for AI-generated art that offers free and unlimited image generations",
+    "websites":["https://instantart.io/"],
+    "tags":["Image"]
+  },
+  {
+    "name": "gencraft",
+    "description": "Genuine Crafts is the place for you to feel inspired, welcomed, and excited about arts and crafts",
+    "websites":["https://gencraft.com/"],
+    "tags":["Image"]
+  },
+  {
+    "name": "Fotor",
+    "description": "Convert words to images with Fotor's free AI image generator",
+    "websites":["https://www.fotor.com/features/ai-image-generator/"],
+    "tags":["Image"]
+  },
+  {
+    "name":"DeepAI",
+    "description": "Text to Image, AI Image generator",
+    "websites":["https://deepai.org/machine-learning-model/text2img"],
+    "tags":["Image"]
+  },
+  {
+    "name":"PX Free Image Generator",
+    "description": "Print generative AI artwork as framed prints, canvas prints, t-shirts, puzzles, and more!",
+    "websites":["https://freeimagegenerator.com/"],
+    "tags":["Image"]
+  },
+  {
+    "name": "Nightcafe",
+    "description": "Print generative AI artwork as framed prints, canvas prints, t-shirts, puzzles, and more!",
+    "websites":["https://creator.nightcafe.studio/"],
+    "tags":["Image"]
+  },
+  {
+    "name":"Veed.IO",
+    "description": "The best free online video editor for professionals.",
+    "websites":["https://www.veed.io/tools/ai-image-generator"],
+    "tags":["Image", "Video"]
+  },
+  {
+    "name":"Starryai",
+    "description": "You are able to create on the go and get really beautiful compositions",
+    "websites":["https://starryai.com/"],
+    "tags":["Image"]
+  },
+  {
+    "name": "Craiyon",
+    "description": "Free online AI image generator from text",
+    "websites":["https://www.craiyon.com/"],
+    "tags":["Image"]
+  },
+  {
+    "name": "openArt",
+    "description": "Free online AI image generator from text",
+    "websites":["https://openart.ai/"],
     "tags":["Image"]
   }
 ]
