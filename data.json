@@ -25,7 +25,7 @@
     "name": "Microsoft Designer",
     "websites":["https://designer.microsoft.com/"],
     "description":"Initially an alternative to Canva. This tool generate images from your text or images. With editable layouts.",
-    "tags":["Image", "Canva"],
+    "tags":["Image"],
     "logo":"https://logowik.com/content/uploads/images/microsoft-designer7529.logowik.com.webp"
   },
   {
@@ -280,12 +280,42 @@
     "name": "WarpSound",
     "description": "WarpSound unleashes new forms of limitless music play and creativity using cutting-edge generative AI technologies.",
     "websites":["https://www.warpsound.ai/"],
-    "tags":["Music"]
+    "tags":["Audio"]
   },
   {
     "name": "Mano",
     "description": "Even at the free tier, you can save yourself the hassle of copying context, switching tabs, and pasting it back. At the premium tier, you can save conversations, bookmark queries, chat with agents, and many more improvements that will make your life much easier.",
     "websites":["https://www.joinmano.ai/"],
     "tags":["Tools", "Chat"]
+  },
+  {
+    "name": "Dart",
+    "description": "Dart is project management on autopilot. Dart typically saves teams a third of their project management time through AI-powered automation.",
+    "websites":["https://www.itsdart.com/"],
+    "tags":["Tools", "Project Management"]
+  },
+  {
+    "name": "Call Annie",
+    "description": "our always available AI friend",
+    "websites":["https://callannie.ai"],
+    "tags":["Chat"]
+  },
+  {
+    "name": "Artificial Intelligence Radio",
+    "description": "Artificial Intelligence Radio plays AI-generated songs 24/7. Experience unique and creative music crafted by artificial intelligence.",
+    "websites":["https://artificialintelligenceradio.com"],
+    "tags":["Audio"]
+  },
+  {
+    "name": "Studio.design",
+    "description": "A web design tool for the intelligence age. STUDIO AI can understand what you are designing, learn from your feedback to take your designs further, and turn them instantly into live websites. This is web design, redesigned.",
+    "websites":["https://studio.design/"],
+    "tags":["Tools", "Image"]
+  },
+  {
+    "name": "AudioPen",
+    "description": "The easiest way to convert messy thoughts into clear text.",
+    "websites":["https://audiopen.ai/"],
+    "tags":["Tools", "Audio", "Chat"]
   }
 ]
