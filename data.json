@@ -245,5 +245,47 @@
     "description": "Free online AI image generator from text",
     "websites":["https://openart.ai/"],
     "tags":["Image"]
+  },
+  {
+    "name": "Personal.ai",
+    "description": "An AI that's trained on your own knowledge and previous chats. The AI learns how you chat and makes AI-drafted messages that sound more and more like you over time.",
+    "websites":["https://www.personal.ai/"],
+    "tags":["Chat", "Personalized"]
+  },
+  {
+    "name": "Toolbuilder.ai",
+    "description": "A platform that enables users to explore and build customized AI tools and chatbots tailored to specific needs. Users can save their own tools in toolboxes and explore AI content.",
+    "websites":["https://toolbuilder.ai/"],
+    "tags":["Tools"]
+  },
+  {
+    "name": "chat.walletguard",
+    "description": "A personalized chatbot that answers any questions about Web3.",
+    "websites":["https://chat.walletguard.app/"],
+    "tags":["Chat", "Personalized" "Web3"]
+  },
+  {
+    "name": "Humata.ai",
+    "description": "Ask AI anything about your files",
+    "websites":["https://www.humata.ai/"],
+    "tags":["Personalized", "PDF", "Document"]
+  },
+  {
+    "name": "My Ask AI",
+    "description": "Create your own ChatGPT in minutes, using your own content.",
+    "websites":["https://myaskai.com/"],
+    "tags":["Chat", "Personalized", "PDF", "Document"]
+  },
+  {
+    "name": "WarpSound",
+    "description": "WarpSound unleashes new forms of limitless music play and creativity using cutting-edge generative AI technologies.",
+    "websites":["https://www.warpsound.ai/"],
+    "tags":["Music"]
+  },
+  {
+    "name": "Mano",
+    "description": "Even at the free tier, you can save yourself the hassle of copying context, switching tabs, and pasting it back. At the premium tier, you can save conversations, bookmark queries, chat with agents, and many more improvements that will make your life much easier.",
+    "websites":["https://www.joinmano.ai/"],
+    "tags":["Tools", "Chat"]
   }
 ]
