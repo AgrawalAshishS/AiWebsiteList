@@ -262,7 +262,7 @@
     "name": "chat.walletguard",
     "description": "A personalized chatbot that answers any questions about Web3.",
     "websites":["https://chat.walletguard.app/"],
-    "tags":["Chat", "Personalized" "Web3"]
+    "tags":["Chat", "Personalized", "Web3"]
   },
   {
     "name": "Humata.ai",
