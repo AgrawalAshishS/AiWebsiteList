@@ -317,5 +317,11 @@
     "description": "The easiest way to convert messy thoughts into clear text.",
     "websites":["https://audiopen.ai/"],
     "tags":["Tools", "Audio", "Chat"]
+  },
+  {
+    "name": "Awesome ChatGPT Prompts",
+    "description": "This site includes ChatGPT prompt curation to use ChatGPT better.",
+    "websites":["https://prompts.chat/"],
+    "tags":["Tools", "Prompt", "Chat"]
   }
 ]
